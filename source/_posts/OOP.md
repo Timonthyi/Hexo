@@ -36,7 +36,7 @@ Python的面向对象：
   >  |  __and__(self, value, /)
   >  |      Return self&value.
 
-* 成员方法（Class Function）声明：方法的第一个参数为self（类比于Java里的this关键字）。
+* 类方法（Class Function）声明：方法的第一个参数为self（类比于Java里的this关键字）（相对于其他function）。
 
 * 构造方法：定义`__init__`方法
 
