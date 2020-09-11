@@ -2,6 +2,8 @@
 title: CSGO-Config
 date: 2020-07-26 22:17:21
 tags:
+- 游戏配置
+description: CSGO的个人配置文件 
 categories: CSGO
 ---
 
@@ -23,7 +25,7 @@ cl_crosshair_sniper_show_normal_inaccuracy "0"
 cl_crosshair_sniper_width "1"
 cl_crosshair_t "0"
 cl_crosshairalpha "250"
-cl_crosshaircolor "1"
+cl_crosshaircolor "1" 
 cl_crosshaircolor_b "50"
 cl_crosshaircolor_g "250"
 cl_crosshaircolor_r "50"
