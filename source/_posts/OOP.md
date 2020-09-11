@@ -13,28 +13,9 @@ categories: With Python
 
 Python的面向对象：
 
-* *Everything is Object.* 不同于Java和C++，Python没有内置类型，即int,float等都是对象。
+<!-- more -->
 
-  > \>\>\>help(int)
-  >
-  > Help on class int in module builtins:
-  >
-  > class int(object)
-  >  |  int([x]) -> integer
-  >  |  int(x, base=10) -> integer
-  >  |
-  >  ......
-  >  |
-  >  |  Methods defined here:
-  >  |
-  >  |  __abs__(self, /)
-  >  |      abs(self)
-  >  |
-  >  |  __add__(self, value, /)
-  >  |      Return self+value.
-  >  |
-  >  |  __and__(self, value, /)
-  >  |      Return self&value.
+* *Everything is Object.* 不同于Java和C++，Python没有内置类型，即int,float等都是对象。
 
 * 类方法（Class Function）声明：方法的第一个参数为self（类比于Java里的this关键字）（相对于其他function）。
 
